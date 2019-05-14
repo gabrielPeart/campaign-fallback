@@ -1,3 +1,5 @@
 {
-	"campaign_id": "1"
+	"push_type": "campaign",
+	"campaign_id": "1",
+	"valid_until": "1557834461"
 }
